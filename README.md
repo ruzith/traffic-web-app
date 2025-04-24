@@ -1,3 +1,29 @@
+# Traffic Web App
+
+This is a basic front-end web application built during my university studies in 2022. It uses HTML, CSS, and JavaScript to simulate or demonstrate traffic-related functionality.
+
+## 📁 Project Structure
+
+- `index.html`: Main HTML file
+- `style.css`: Styling for the user interface
+- `script.js`: JavaScript logic and interactivity
+
+## 🚀 How to Run
+
+1. Download or clone the repository.
+2. Open `index.html` in any modern web browser.
+
+## 📌 Notes
+
+- Created during university for learning purposes.
+- No backend — this is a purely front-end static app.
+
+## 📅 Year
+
+2022
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
